@@ -4,11 +4,24 @@ This is a simple Employee Record System designed using C# and Windows Forms. The
 
 ## Project Visual Images :
 
-1. ![Login Page](Assets/Images/Loginpage.png)
-2. ![View Employee Page](Assets/Images/ViewEmppage.png)
-3. ![Manage Employee](Assets/Images/ManageEmp.png)
-4. ![Employee Details](Assets/Images/DetailsEmp.png)
-5. ![Salary Details](Assets/Images/SalaryEmp.png)
+Login Page: 
+
+1. ![Login Page](Assets/Images/Loginpage.png)  
+ 
+   View Employee Section:
+   
+3. ![View Employee Page](Assets/Images/ViewEmppage.png)
+
+   Manage Employee Section:
+   
+5. ![Manage Employee](Assets/Images/ManageEmp.png)
+
+   Fetch Employee Data:
+   
+7. ![Employee Details](Assets/Images/DetailsEmp.png)
+
+   Salary Dashboard:
+9. ![Salary Details](Assets/Images/SalaryEmp.png)
 
 ## Features
 
