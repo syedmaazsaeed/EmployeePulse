@@ -31,3 +31,36 @@ C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\Employees_Record_System\Empl
 C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\Employees_Record_System\Employees_Record_System\bin\Debug\CircularProgressBar.dll
 C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\Employees_Record_System\Employees_Record_System\bin\Debug\WinFormAnimation.dll
 C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\Employees_Record_System\Employees_Record_System\bin\Debug\CircularProgressBar.xml
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Employees_Record_System.exe.config
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Employees_Record_System.exe
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Employees_Record_System.pdb
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.Dataviz.WinForms.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.Licensing.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.UI.WinForms.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.Utils.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\CircleButtonMenu.Abstractions.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\CircularProgressBar.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Guna.UI2.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\WinFormAnimation.dll
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.pdb
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\ButtonCircle.FormsPlugin.Abstractions.xml
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\CircleButtonMenu.Abstractions.pdb
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\bin\Debug\CircularProgressBar.xml
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.csproj.AssemblyReference.cache
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.Employee.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.Home.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.Login.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.Properties.Resources.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.Salary.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.Splash.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.ViewEmployee.resources
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.csproj.GenerateResource.cache
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.csproj.CoreCompileInputs.cache
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.csproj.CopyComplete
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.exe
+E:\Git-hub Repository\EmployeePulse\Employees_Record_System\Employees_Record_System\obj\Debug\Employees_Record_System.pdb

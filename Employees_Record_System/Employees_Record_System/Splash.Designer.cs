@@ -33,7 +33,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.circularpbar = new CircularProgressBar.CircularProgressBar();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.circlepbar2 = new Guna.UI2.WinForms.Guna2CircleProgressBar();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
@@ -75,39 +74,6 @@
             this.guna2CirclePictureBox1.TabIndex = 0;
             this.guna2CirclePictureBox1.TabStop = false;
             // 
-            // circularpbar
-            // 
-            this.circularpbar.AnimationFunction = WinFormAnimation.KnownAnimationFunctions.Liner;
-            this.circularpbar.AnimationSpeed = 500;
-            this.circularpbar.BackColor = System.Drawing.Color.Transparent;
-            this.circularpbar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.circularpbar.ForeColor = System.Drawing.Color.White;
-            this.circularpbar.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(42)))), ((int)(((byte)(64)))));
-            this.circularpbar.InnerMargin = 2;
-            this.circularpbar.InnerWidth = -1;
-            this.circularpbar.Location = new System.Drawing.Point(0, 53);
-            this.circularpbar.MarqueeAnimationSpeed = 2000;
-            this.circularpbar.Name = "circularpbar";
-            this.circularpbar.OuterColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.circularpbar.OuterMargin = -25;
-            this.circularpbar.OuterWidth = 26;
-            this.circularpbar.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.circularpbar.ProgressWidth = 10;
-            this.circularpbar.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 2.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.circularpbar.Size = new System.Drawing.Size(200, 200);
-            this.circularpbar.StartAngle = 270;
-            this.circularpbar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
-            this.circularpbar.SubscriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
-            this.circularpbar.SubscriptMargin = new System.Windows.Forms.Padding(10, -35, 0, 0);
-            this.circularpbar.SubscriptText = "";
-            this.circularpbar.SuperscriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
-            this.circularpbar.SuperscriptMargin = new System.Windows.Forms.Padding(10, 35, 0, 0);
-            this.circularpbar.SuperscriptText = "";
-            this.circularpbar.TabIndex = 3;
-            this.circularpbar.TextMargin = new System.Windows.Forms.Padding(8, 8, 0, 0);
-            this.circularpbar.Value = 68;
-            this.circularpbar.Click += new System.EventHandler(this.circularpbar_Click);
-            // 
             // timer1
             // 
             this.timer1.Enabled = true;
@@ -144,7 +110,6 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(523, 281);
             this.Controls.Add(this.circlepbar2);
-            this.Controls.Add(this.circularpbar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -164,7 +129,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
-        private CircularProgressBar.CircularProgressBar circularpbar;
         private System.Windows.Forms.Timer timer1;
         private Guna.UI2.WinForms.Guna2CircleProgressBar circlepbar2;
         private System.Windows.Forms.Timer timer2;
